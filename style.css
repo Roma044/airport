@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background-image: url("./images/airport.png");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  padding: 15px 30px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
